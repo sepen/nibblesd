@@ -1,0 +1,3 @@
+- ask for a nick when receive a new client connection
+- send more info than buf to clients (nick identifier)
+- rebuild source to implement a .cpp class to manipulate clients 

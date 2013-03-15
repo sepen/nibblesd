@@ -1,0 +1,17 @@
+
+
+                           nibblesd
+
+
+DESCRIPTION
+
+  Nibbles Daemon. Game server for nibbles networked clients
+
+
+BUILD AND INSTALL
+
+  $ make
+  $ sudo make install
+  or
+  $ sudo make install DESTDIR=/path/to/dir
+
