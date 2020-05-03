@@ -1,5 +1,4 @@
 DESTDIR=
-
 PREFIX=/usr
 
 CC 	= gcc
